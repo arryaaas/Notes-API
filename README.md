@@ -1,6 +1,6 @@
 # Notes-App-Back-End
 
-RESTful API For Notes Deployed On GCP - Cloud Computing Bangkit 2022.
+RESTful API For Notes Deployed with Google Compute Engine - Cloud Computing Bangkit 2022.
 
 ## Routing
 
